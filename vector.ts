@@ -42,7 +42,7 @@ class Vector
 
     dot(other: Vector)
     {
-		return other.x * this.x + other.y * this.y;
+	return other.x * this.x + other.y * this.y;
     }
 
     length(): number
